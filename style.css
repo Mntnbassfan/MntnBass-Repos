@@ -1,0 +1,43 @@
+.center {
+    text-align: center;   
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.bigfont{
+    font-size: x-large;
+}
+
+.bold{
+    font-weight: bold;   
+}
+
+.fnt1{
+    font-family:font-family: "Times New Roman", Times, serif; 
+}
+
+.mltAtt{
+    font-size: x-large;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+
+img{
+    border: 5px solid greenyellow;
+}
+
