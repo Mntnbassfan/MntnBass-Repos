@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 
 document.getElementById("button1").addEventListener("click", function(){
 
@@ -20,7 +20,6 @@ document.getElementById("box").style.opacity = "0";
 
 document.getElementById("button4").addEventListener("click", function(){
 
-    document.getElementById("box").style.height = "150px";
+    document.getElementById("box").style.style="height:150px; width:150px; background-color:orange; margin:25px opacity:100" ;
 
 });
-</script>
